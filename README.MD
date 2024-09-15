@@ -10,6 +10,9 @@ Phần mềm này hiện tại chỉ sử dụng được ở trên trình duy�
 Bạn chỉ cần tải về, điền thông tin vào trong file .env, và chạy.
 
 ## Cách điền thông tin vào trong tệp .env
+- Nếu bạn đã có tệp .env, vui lòng bỏ qua phần này
+- Nếu bạn mới tải, vui lòng đổi tên tệp default.env thành .env
+
 Bạn sẽ thấy trong tệp .env có 3 phần:
 ```env
 TDN=
