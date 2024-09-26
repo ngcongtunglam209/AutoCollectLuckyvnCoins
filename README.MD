@@ -23,7 +23,7 @@ Bạn hãy điền như sau:
 ```env
 TDN=<tên đăng nhập luckyvn của bạn>
 MK=<mật khẩu đăng nhập luckyvn của bạn>
-NOPECHA_KEY=<API key của NopeCHA>
+NOPECHA_KEY=<API key của NopeCHA> (KHÔNG BẮT BUỘC)
 ```
 ## Làm cách nào để lấy API key của [NopeCHA](https://nopecha.com)?
 Bạn sẽ có 2 cách:
