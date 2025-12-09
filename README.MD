@@ -1,3 +1,8 @@
+## Project đã dùng lại
+- Hiện tại LuckyVN đã đổi nhiệm vụ sang dạng mới, nó không ổn định và tôi không có thời gian nên tôi sẽ dừng dự án này vĩnh viễn.
+
+--
+
 ## Tại sao tôi lại tạo ra cái này?
 Vì tôi quá mệt mỏi khi phải chờ đợi ~3p để lấy được tầm ~10 coins nên tôi đã tạo ra
 
